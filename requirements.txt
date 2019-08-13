@@ -1,0 +1,6 @@
+six
+tqdm
+torch>=1.0
+git+https://github.com/pytorch/text
+future
+configargparse
