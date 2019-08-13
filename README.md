@@ -1,6 +1,6 @@
 ## Incremental Transformer with Deliberation Decoder for Document Grounded Conversations
 
-This is the PyTorch implementation of paper: **[Incremental Transformer with Deliberation Decoder for Document Grounded Conversations](<https://arxiv.org/abs/1907.08854>)**. [**Zekang Li**](), [Cheng Niu](), [Fandong Meng](), [Yang Feng](), [Qian Li](), [Jie Zhou](). ***ACL 2019***.
+This is the PyTorch implementation of paper: **[Incremental Transformer with Deliberation Decoder for Document Grounded Conversations](<https://arxiv.org/abs/1907.08854>)**. [**Zekang Li**](https://www.zekangli.com), [Cheng Niu](#), [Fandong Meng](#), [Yang Feng](#), [Qian Li](), [Jie Zhou](). ***ACL 2019***.
 
 This code has been written based on [OpenNMT-py](<https://github.com/OpenNMT/OpenNMT-py>). If you use any source code included in this repo in your work, please cite the following paper.
 
