@@ -42,6 +42,11 @@ Document Grounded Conversations is a task to generate dialogue responses when ch
 
 We use the dataset proposed in [A Dataset for Document Grounded Conversations](https://arxiv.org/pdf/1809.07358.pdf). As there is a little overlap between training set and testing set in the original dataset, we remove the duplicates and format the data for our model. Please download the processed data [here](https://drive.google.com/file/d/16AcawDtG4HqUlQHV_zb4tZD4KNCAx_Vf/view?usp=sharing).
 
+### Requirements
+```shell
+pip install -r requirements.txt
+```
+
 ### How to run
 
 1. Preprocess
