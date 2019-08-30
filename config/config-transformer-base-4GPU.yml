@@ -29,6 +29,7 @@ batch_type: tokens
 normalization: tokens
 dropout: 0.3
 label_smoothing: 0.1
+valid_batch_size: 8
 
 max_generator_batches: 2
 
